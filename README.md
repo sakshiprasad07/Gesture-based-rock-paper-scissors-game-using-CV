@@ -106,7 +106,3 @@ Trained weights are saved to `runs/detect/train/weights/best.pt`.
 - Try a larger model variant (`yolov8m`) if inference latency allows
 - Replace left/right positional player assignment with proper object tracking for more robust multi-hand scenarios
 - Add round history / best-of-N match mode
-
-## License
-
-Add your license of choice here (e.g., MIT).
